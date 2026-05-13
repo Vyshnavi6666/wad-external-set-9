@@ -1,4 +1,9 @@
-<img width="1010" height="299" alt="image 4" src="https://github.com/user-attachments/assets/4e7e7c47-5ddf-4ae8-850f-f9912f1ccac8" />
+<img width="1017" height="312" alt="img 5" src="https://github.com/user-attachments/assets/74d56578-9943-4940-8a6f-ba10ef92cdaf" />
+<img width="1507" height="390" alt="img 4" src="https://github.com/user-attachments/assets/c6070c6e-1fdf-4f24-b33f-039d41a45c34" />
+<img width="1531" height="433" alt="img 3" src="https://github.com/user-attachments/assets/1f88fa88-00e0-44a0-8e76-10db5b2a1648" />
+<img width="1562" height="493" alt="img 2" src="https://github.com/user-attachments/assets/967be3ff-0d25-411d-9e5e-7f0d4152512f" />
+<img width="1618" height="554" alt="img 1" src="https://github.com/user-attachments/assets/33ab3171-14e7-43bd-92b4-2b53bf24db83" />
+
 ▶️ How to Run
 Run the server:
 node server.js
@@ -7,9 +12,7 @@ http://localhost:3000
 
 🌐 Routes & Functionality
 Home Route
-/<img width="1580" height="386" alt="image 3" src="https://github.com/user-attachments/assets/d839da60-4a98-408b-b6b1-c87f07c308ce" />
-<img width="1689" height="416" alt="image 2" src="https://github.com/user-attachments/assets/ef3e39c1-f14a-45e5-a8a5-a851f843ccf6" />
-<img width="1577" height="439" alt="image 1" src="https://github.com/user-attachments/assets/e220f9af-9649-491a-a58b-d47904853b03" />
+
 
 Displays welcome message
 
