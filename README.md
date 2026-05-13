@@ -1,3 +1,4 @@
+<img width="1010" height="299" alt="image 4" src="https://github.com/user-attachments/assets/4e7e7c47-5ddf-4ae8-850f-f9912f1ccac8" />
 ▶️ How to Run
 Run the server:
 node server.js
