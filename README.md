@@ -6,7 +6,10 @@ http://localhost:3000
 
 🌐 Routes & Functionality
 Home Route
-/
+/<img width="1580" height="386" alt="image 3" src="https://github.com/user-attachments/assets/d839da60-4a98-408b-b6b1-c87f07c308ce" />
+<img width="1689" height="416" alt="image 2" src="https://github.com/user-attachments/assets/ef3e39c1-f14a-45e5-a8a5-a851f843ccf6" />
+<img width="1577" height="439" alt="image 1" src="https://github.com/user-attachments/assets/e220f9af-9649-491a-a58b-d47904853b03" />
+
 Displays welcome message
 
 OS Module
